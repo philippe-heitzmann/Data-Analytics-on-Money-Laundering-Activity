@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a case study I completed for a late-stage interview for a Lead Data Scientist position at a late stage startup. The problem statement focused on conducting in-depth data analysis on a **12K-observation** dataset of money transfer records at a flowershop business based in California in order to uncover potentially suspicious signs of money laundering activity, that could support possible law enforcement action. The dataset provided variables covering transaction size, frequency, and geographic destinations, enabling in-depth analysis of anomalous transaction patterns.
+This project presents a case study I completed in six hours for a late-stage interview for a Lead Data Scientist position at a late stage startup. The problem statement focused on conducting in-depth data analysis on a **12K-observation** dataset of money transfer records at a flowershop business based in California in order to uncover potentially suspicious signs of money laundering activity, that could support possible law enforcement action. The dataset provided variables covering transaction size, frequency, and geographic destinations, enabling in-depth analysis of anomalous transaction patterns. You can check out the final report in the "Final Report.pdf" file included in this repo.
 
 ## Executive Summary
 
